@@ -22,7 +22,7 @@ spec:
   values:
     usePassword: true
     image:
-      repository: bitnami/redis
+      repository: redis
       tag: 5.0.7
     service:
       type: ClusterIP
